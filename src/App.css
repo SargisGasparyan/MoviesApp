@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: teal;
+  background-color: rgb(151, 180, 180);
 }
 
 .App-logo {
@@ -40,7 +40,7 @@
   align-items: center;
   width: 30%;
   height: 30px;
-  background-color: rgb(129, 163, 163);
+  background-color: rgb(121, 172, 172);
 }
 .search-botton {
   border-radius: 10px;
@@ -51,7 +51,12 @@
   align-items: center;
   width: 6%;
   height: 30px;
-  background-color: rgb(129, 163, 163);
+  background-color: rgb(121, 172, 172);
+  cursor: pointer;
+}
+p {
+  font-size: 60px;
+  font-family: "Dancing Script", cursive;
 }
 
 @keyframes App-logo-spin {

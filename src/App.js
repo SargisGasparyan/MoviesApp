@@ -39,6 +39,8 @@ const getRecipes=async()=>{
 
   return (
     <div className="App">
+    <p>Your Recipe</p>
+    
       <form  className='search-form'>
         <input className='search-bar' type='text' value={search} onChange={updateSearch} />
         <button className='search-botton' type='submit' onClick={getSearch}>Search</button>
