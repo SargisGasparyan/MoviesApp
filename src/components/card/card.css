@@ -1,0 +1,26 @@
+.card{
+    border: 3px solid gray;
+    margin: 20px auto;
+    padding: 12px 12px;
+    width: 350px;
+    height: 620px;
+}
+.card p{
+    font-size: 28px;
+}
+.btnToFavprite{
+    width: 130px;
+    border-radius: 15px;
+    font-size: 13px;
+    background-color: #449153;
+    font-weight: bold;
+    height: 30px;
+}
+.btnFromFavprite{
+    width: 130px;
+    border-radius: 15px;
+    font-size: 13px;
+    font-weight: bold;
+    background-color: #cb245d;
+    height: 30px;
+}

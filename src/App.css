@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: rgb(151, 180, 180);
+  background-color: rgb(199 209 209);
 }
 
 .App-logo {
@@ -40,7 +40,7 @@
   align-items: center;
   width: 30%;
   height: 30px;
-  background-color: rgb(121, 172, 172);
+  background-color: rgb(199 209 209);
 }
 .search-botton {
   border-radius: 10px;

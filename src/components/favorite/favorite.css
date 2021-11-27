@@ -1,0 +1,11 @@
+.favoriteItem{
+    border: 3px solid gray;
+    margin: 20px auto;
+    padding: 12px 12px;
+    width: 350px;
+    height: 550px;
+}
+
+.favoriteItem p{
+    font-size: 28px;
+}
